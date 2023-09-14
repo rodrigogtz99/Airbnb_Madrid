@@ -18,7 +18,7 @@ The variables with the strongest correlations with the target variable (price) w
 The machine learning model was built using H2O, an open-source platform for machine learning and predictive analytics. The model was trained to predict the prices of Airbnb listings in Madrid. The root mean square error (RMSE) metric was used to evaluate the model's performance.
 
 ## Interactive Visualizations
-Interactive visualizations were created using Tableau to showcase the findings and insights from the project. You can access the visualizations at the following link: [Tableau Visualizations]([link-to-tableau-visualizations](https://public.tableau.com/app/profile/rodrigo.gutierrez.garcia/viz/AirbnbPredictionsMadrid/Story2?publish=yes)).
+Interactive visualizations were created using Tableau to showcase the findings and insights from the project. You can access the visualizations at the following link: https://public.tableau.com/app/profile/rodrigo.gutierrez.garcia/viz/AirbnbPredictionsMadrid/Story2?publish=yes
 
 Feel free to explore the code, data, and visualizations provided in this repository. If you have any questions or suggestions, please feel free to reach out.
 
