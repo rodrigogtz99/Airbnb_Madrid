@@ -1,0 +1,125 @@
+,neighbourhood_group,neighbourhood,id
+0,Centro,Embajadores,1987
+1,Centro,Universidad,1544
+2,Centro,Palacio,1290
+3,Centro,Sol,961
+4,Centro,Justicia,772
+5,Centro,Cortes,751
+6,Chamberí,Trafalgar,268
+7,Arganzuela,Palos de Moguer,264
+8,Salamanca,Goya,246
+9,Salamanca,Guindalera,224
+10,Moncloa - Aravaca,Argüelles,202
+11,Latina,Puerta del Angel,189
+12,Salamanca,Recoletos,188
+13,Retiro,Pacífico,185
+14,Tetuán,Cuatro Caminos,185
+15,Retiro,Ibiza,155
+16,Puente de Vallecas,San Diego,153
+17,Chamberí,Arapiles,139
+18,Puente de Vallecas,Numancia,135
+19,Salamanca,Lista,132
+20,Chamberí,Rios Rosas,128
+21,Ciudad Lineal,Ventas,124
+22,Arganzuela,Delicias,124
+23,Tetuán,Bellas Vistas,122
+24,Tetuán,Castillejos,119
+25,Carabanchel,San Isidro,118
+26,Ciudad Lineal,Pueblo Nuevo,118
+27,Arganzuela,Acacias,115
+28,Chamberí,Almagro,113
+29,Chamberí,Gaztambide,113
+30,Chamartín,Prosperidad,109
+31,Salamanca,Castellana,109
+32,Arganzuela,Imperial,105
+33,Usera,Moscardó,104
+34,Tetuán,Berruguete,103
+35,Hortaleza,Valdefuentes,103
+36,Carabanchel,Comillas,103
+37,Arganzuela,Chopera,99
+38,Tetuán,Almenara,93
+39,Hortaleza,Pinar del Rey,91
+40,Carabanchel,Vista Alegre,89
+41,Tetuán,Valdeacederas,87
+42,Hortaleza,Canillas,87
+43,Ciudad Lineal,Quintana,87
+44,Carabanchel,Opañel,82
+45,Retiro,Jerónimos,75
+46,Chamartín,Hispanoamérica,74
+47,Usera,Almendrales,69
+48,Salamanca,Fuente del Berro,69
+49,Retiro,Adelfas,68
+50,San Blas - Canillejas,Simancas,68
+51,Fuencarral - El Pardo,Valverde,67
+52,San Blas - Canillejas,Rejas,61
+53,Latina,Lucero,61
+54,Villa de Vallecas,Casco Histórico de Vallecas,57
+55,Puente de Vallecas,Palomeras Bajas,56
+56,Chamartín,Ciudad Jardín,55
+57,Chamartín,El Viso,52
+58,Chamartín,Nueva España,51
+59,Moncloa - Aravaca,Valdezarza,50
+60,Carabanchel,Puerta Bonita,49
+61,Usera,Orcasur,49
+62,San Blas - Canillejas,Canillejas,48
+63,Ciudad Lineal,Concepción,47
+64,Moncloa - Aravaca,Casa de Campo,46
+65,Latina,Aluche,46
+66,Retiro,Niño Jesús,42
+67,Villaverde,San Andrés,40
+68,Chamartín,Castilla,38
+69,Fuencarral - El Pardo,Pilar,37
+70,Latina,Cármenes,37
+71,Barajas,Casco Histórico de Barajas,37
+72,Carabanchel,Buenavista,37
+73,Chamberí,Vallehermoso,36
+74,Puente de Vallecas,Entrevías,35
+75,Moratalaz,Fontarrón,34
+76,Moncloa - Aravaca,Aravaca,33
+77,Villaverde,Los Rosales,33
+78,Usera,San Fermín,32
+79,Arganzuela,Legazpi,32
+80,Ciudad Lineal,San Pascual,31
+81,Usera,Pradolongo,29
+82,Vicálvaro,Casco Histórico de Vicálvaro,29
+83,Barajas,Alameda de Osuna,29
+84,Ciudad Lineal,Costillares,29
+85,Carabanchel,Abrantes,29
+86,Barajas,Timón,27
+87,Moncloa - Aravaca,Ciudad Universitaria,27
+88,Fuencarral - El Pardo,Peñagrande,27
+89,Puente de Vallecas,Palomeras Sureste,26
+90,Hortaleza,Apostol Santiago,26
+91,Usera,Zofío,25
+92,Villaverde,Los Angeles,25
+93,San Blas - Canillejas,Rosas,25
+94,San Blas - Canillejas,Arcos,22
+95,Latina,Campamento,22
+96,Hortaleza,Piovera,21
+97,Fuencarral - El Pardo,La Paz,20
+98,Puente de Vallecas,Portazgo,20
+99,Moratalaz,Marroquina,20
+100,Retiro,Estrella,18
+101,Latina,Aguilas,18
+102,Usera,Orcasitas,17
+103,Villaverde,San Cristobal,17
+104,Ciudad Lineal,Colina,16
+105,San Blas - Canillejas,Salvador,16
+106,Villaverde,Butarque,15
+107,Ciudad Lineal,San Juan Bautista,15
+108,Moratalaz,Media Legua,15
+109,San Blas - Canillejas,Hellín,13
+110,Arganzuela,Atocha,13
+111,Fuencarral - El Pardo,Mirasierra,13
+112,Moratalaz,Vinateros,13
+113,Vicálvaro,Ambroz,10
+114,Moncloa - Aravaca,El Plantío,8
+115,Hortaleza,Palomas,7
+116,Villa de Vallecas,Santa Eugenia,7
+117,Latina,Cuatro Vientos,6
+118,San Blas - Canillejas,Amposta,6
+119,Moratalaz,Pavones,5
+120,Fuencarral - El Pardo,El Goloso,5
+121,Barajas,Aeropuerto,4
+122,Moncloa - Aravaca,Valdemarín,3
+123,Barajas,Corralejos,3
